@@ -1,0 +1,5 @@
+C:/Programming/My_MxM_stuff/taglib-1.7.2/CMakeFiles/ALL_BUILD.dir
+C:/Programming/My_MxM_stuff/taglib-1.7.2/CMakeFiles/ZERO_CHECK.dir
+C:/Programming/My_MxM_stuff/taglib-1.7.2/CMakeFiles/docs.dir
+C:/Programming/My_MxM_stuff/taglib-1.7.2/taglib/CMakeFiles/tag.dir
+C:/Programming/My_MxM_stuff/taglib-1.7.2/bindings/c/CMakeFiles/tag_c.dir
